@@ -4,11 +4,9 @@
     color: black;
 }
 
-.heading
+p
 {
     width: 50%;
-    left: auto;
-    right: auto;
     font-weight: bold;
     text-align: center;
     font-size: 40px;
